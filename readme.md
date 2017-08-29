@@ -1,0 +1,3 @@
+-have node
+-npm install
+-node ./app.js
